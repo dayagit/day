@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/home/vishu/Downloads/clone/day/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2722233451.index
+1088455617.index
+3058131307.index
+2471618429.index
+2998170974.index
+4120423025.index
